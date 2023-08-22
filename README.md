@@ -1,0 +1,6 @@
+![Reg](https://github.com/planktonaz/dummyProducts/blob/main/assets/home.png)
+![Reg](https://github.com/planktonaz/dummyProducts/blob/main/assets/cats.png)
+![Reg](https://github.com/planktonaz/dummyProducts/blob/main/assets/dogs.png)
+![Reg](https://github.com/planktonaz/dummyProducts/blob/main/assets/products.png)
+![Reg](https://github.com/planktonaz/dummyProducts/blob/main/assets/singleProduct.png)
+![Reg](https://github.com/planktonaz/dummyProducts/blob/main/assets/color.png)

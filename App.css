@@ -1,0 +1,137 @@
+.d-flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.j-start {
+    justify-content: start;
+}
+
+.j-end {
+    justify-content: end;
+}
+
+.j-center {
+    justify-content: center;
+}
+
+.j-between {
+    justify-content: space-between;
+}
+
+.a-start {
+    align-content: start;
+}
+
+.a-center {
+    align-items: center;
+}
+
+.a-end {
+    align-content: end;
+}
+
+.gap10 {
+    gap: 10px
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.grow1 {
+    flex: 1
+}
+
+.grow2 {
+    flex: 2
+}
+
+.grow3 {
+    flex: 3
+}
+
+.grow4 {
+    flex: 4
+}
+
+.grow5 {
+    flex: 5
+}
+
+.flex-end {
+    justify-content: flex-end;
+}
+
+.p-2 {
+    padding: 20px;
+}
+
+.m-1 {
+    margin: 10px;
+}
+
+.mt-1 {
+    margin-top: 10px;
+}
+
+.t-center {
+    text-align: center;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+div {
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.container {
+    padding: 0 50px 50px 50px;
+}
+
+.items {
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.items > * {
+    width: 100%;
+    padding: 5px;
+    pointer-events: none;
+    box-sizing: border-box;
+}
+
+.items:hover {
+    background-color: lightskyblue;
+}
+
+.toolbar {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: lightgrey;
+}
+
+.main {
+    height: 50vh;
+}
+
+.rightSide {
+    width: 100%;
+}
+
+.rightSide > img {
+    width: 300px;
+}
+
+.leftSide > div {
+    padding: 5px;
+    margin-bottom: 5px;
+}
